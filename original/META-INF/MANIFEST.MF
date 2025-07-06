@@ -1,0 +1,992 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/Graphics/characters/2003.motion.png
+SHA1-Digest: r9g6X1x2pWlcG+RSqL43P6afUqM=
+
+Name: assets/Sound/@counter.currency.pop.1.mp3
+SHA1-Digest: /1CJOMlQlk9ao91GT6MyJjYIfac=
+
+Name: jsr330_inject/Jsr330_inject.gwt.xml
+SHA1-Digest: djKbVd/wvCsJfQq+OBYCbDoPDLE=
+
+Name: assets/Graphics/characters/2013.motion.png
+SHA1-Digest: Afy1AUUJByAlaTopqkwtPbyGGPQ=
+
+Name: assets/Graphics/characters/2019.motion.png
+SHA1-Digest: xdzlw75/M5KNivj+Pz9NBbMEMdU=
+
+Name: assets/Json/@store.json
+SHA1-Digest: aoidS5bnpqxMftkT+ibtcN4iwgQ=
+
+Name: assets/Graphics/characters/2009.motion.png
+SHA1-Digest: t8W/7flOWTiR1uukAPZjsBhISz4=
+
+Name: assets/Json/@applications.json
+SHA1-Digest: 7ZLyM/eLfzOKsarR/cxKiN3aEeU=
+
+Name: assets/Sound/@push.mp3
+SHA1-Digest: U+NM1D4YSiuVIVUcyQ6S+kzNhCI=
+
+Name: assets/Graphics/characters/5007.png
+SHA1-Digest: E5boyNRwcxKPZCOWA9c4kvW8PiU=
+
+Name: assets/Graphics/characters/2023.motion.png
+SHA1-Digest: 0HkQPaNAWmAlaZTcK1GBviVQUL0=
+
+Name: res/layout/promotion.xml
+SHA1-Digest: aCDsNev0tm33gclCxAl0TvgWYPE=
+
+Name: assets/Graphics/characters/1007.png
+SHA1-Digest: a4q5d6Pj1ovx2niU8gRkEO3Edys=
+
+Name: assets/Graphics/characters/3007.png
+SHA1-Digest: mm0p7w35xVgolSUt+Bg0vG5asI0=
+
+Name: assets/Graphics/characters/2009.png
+SHA1-Digest: /SA6Ad5JfGMj25Splmh6gguKu+U=
+
+Name: assets/Graphics/@present.json
+SHA1-Digest: upveRMfkY4c5D8BNvCCtIynT4Hs=
+
+Name: assets/Graphics/characters/1038.motion.png
+SHA1-Digest: dtNRsEXeYJsODLO/j52RbJLCPks=
+
+Name: assets/Graphics/characters/3004.motion.png
+SHA1-Digest: hLsDwafY3nZInAYUuuraMHOpZVE=
+
+Name: assets/Graphics/characters/3014.motion.png
+SHA1-Digest: fQkO2F0Gcbn7F/D3xg20jNRePtA=
+
+Name: assets/Graphics/characters/1028.motion.png
+SHA1-Digest: T5CuafstUERGOvc2mhzfsgMiP6E=
+
+Name: assets/Graphics/characters/3024.motion.png
+SHA1-Digest: yssFifp/fUjQtqHSyuRHW55bdiU=
+
+Name: assets/Graphics/characters/1043.png
+SHA1-Digest: kVmHBT3QSlmuqGYJPLj8ZCeKA9E=
+
+Name: assets/Graphics/characters/1018.motion.png
+SHA1-Digest: u8ZT1Me4UgaY7lnfJCLoqzjYLgE=
+
+Name: assets/Graphics/characters/2017.png
+SHA1-Digest: uMZ7tnSez0RRUpmEpjmJSaqOJp8=
+
+Name: assets/Shaders/@capture.texture.frag
+SHA1-Digest: NaTFCOPWp0yIGW6PAoZ85TJdvWo=
+
+Name: assets/Graphics/characters/1008.motion.png
+SHA1-Digest: lZaC/ryyhIxiRpizCo2GIoKcohM=
+
+Name: assets/Graphics/characters/4005.motion.png
+SHA1-Digest: 1g/lsGc7QmwBlnb+0sDCu7lEVfI=
+
+Name: assets/Shaders/@fog.frag
+SHA1-Digest: 2HqhpaSEdaD8JioQkH7kfTxJxpM=
+
+Name: assets/Graphics/characters/4005.png
+SHA1-Digest: fpeJxPxJIPDKdYdA4ARgHyA9aLE=
+
+Name: assets/Models/@character.5003.obj
+SHA1-Digest: crO4ODhsCYsAprLXgSYMepmf/O4=
+
+Name: assets/Graphics/characters/1022.motion.png
+SHA1-Digest: L5o+Wcbi8wdLNQKw19yMbX/d0Xs=
+
+Name: assets/Graphics/characters/1042.motion.png
+SHA1-Digest: ebK6UN71hG7oPtHIkhoAwS+uvNc=
+
+Name: assets/Graphics/characters/1027.png
+SHA1-Digest: HQls6skx4uDAp4U69yufuSqKypc=
+
+Name: assets/Graphics/characters/1032.motion.png
+SHA1-Digest: EZYzFhGUnN+vcXU3XIgIppb9hBs=
+
+Name: assets/Graphics/characters/3027.png
+SHA1-Digest: KB6fLysUIV8FVsYBn4AxOHk37gg=
+
+Name: res/drawable/close2x.png
+SHA1-Digest: xMrgAhXQMsHon6E97bTOT8NVWMg=
+
+Name: assets/Graphics/characters/2005.png
+SHA1-Digest: FwD09fdIAkVfgS60IMMhv/m8FrQ=
+
+Name: assets/Graphics/characters/1031.png
+SHA1-Digest: md1rNjdAxxQq8VnLb3mRVRhMuE8=
+
+Name: assets/Graphics/characters/1048.motion.png
+SHA1-Digest: 9KW/0M60IZrWehZUV0MxB1yXe9c=
+
+Name: assets/Graphics/characters/1015.png
+SHA1-Digest: 4FkV2PX5SqPIVyKg0GnY8KVUnM8=
+
+Name: assets/Graphics/characters/2010.png
+SHA1-Digest: 1qqi26RkhVWQesqy5CiEMIA+4uU=
+
+Name: res/anim/fade_out.xml
+SHA1-Digest: SGag9Z4oMqY+g4mjBimCgJD87D4=
+
+Name: assets/Graphics/characters/1041.motion.png
+SHA1-Digest: dSrhHGABXqxjcz5PC1qczqw5UM4=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: t2E4Sk8/7dl6iAMjIhTq8f/+kYk=
+
+Name: assets/Graphics/characters/1031.motion.png
+SHA1-Digest: 7OFC+dZRrnwEE+/HNrg9YZZ5jns=
+
+Name: assets/Graphics/characters/3015.png
+SHA1-Digest: IQWHjA9/ZfcR/KOTTE1zGN3gHuE=
+
+Name: resources.arsc
+SHA1-Digest: pXi0kpROVXc7mBBiaaO3KcMXcrc=
+
+Name: assets/Graphics/characters/1001.1.png
+SHA1-Digest: ADGEJ5S4iZEiDm0JdAQT8+ze0wU=
+
+Name: assets/Graphics/characters/1002.motion.png
+SHA1-Digest: PAGK1EAGPcRl7+yCWIeeGtCeHek=
+
+Name: assets/Graphics/characters/1012.motion.png
+SHA1-Digest: VxT1dglcdjS8YDah2BZ3UQZDaR8=
+
+Name: assets/Sound/@present.2.mp3
+SHA1-Digest: KORRsMuyFJQt7JxypMte32aaIR4=
+
+Name: assets/Models/@character.obj
+SHA1-Digest: f2wuWHSY9jhIx2e4I1Z/TBNqlho=
+
+Name: AndroidManifest.xml
+SHA1-Digest: E15Mvgd1gTBpt+37Rn4HxcZa8+w=
+
+Name: assets/Sound/@cancel.mp3
+SHA1-Digest: vY17ISPx4GCn/Rb73Mu+L8xiUys=
+
+Name: assets/Graphics/characters/1003.png
+SHA1-Digest: 6AFCUUpTQJ0xDC6xxYraSGF5uyQ=
+
+Name: third_party/java_src/jsr330_inject/Jsr330_inject.gwt.xml
+SHA1-Digest: TVJ/LTH8ZP0CCPzswCL7xFz1jxM=
+
+Name: assets/Graphics/characters/1011.png
+SHA1-Digest: /d0zNhxbss/p2UTtuxoji2eH3zc=
+
+Name: assets/Graphics/characters/1011.motion.png
+SHA1-Digest: 6QOdJUip96Pok9hpQjANf0DzCGQ=
+
+Name: assets/Models/@plate.obj
+SHA1-Digest: BHonruCN2CNU+VOu1xuG9xdVwr4=
+
+Name: assets/Graphics/characters/1021.motion.png
+SHA1-Digest: 4iOWyjJbYnRpBnxmtfOyWZ49bjM=
+
+Name: assets/Graphics/characters/5003.png
+SHA1-Digest: Ty9aVROFZ+/Yi4gdLJn90+fvZp8=
+
+Name: assets/Graphics/characters/1020.png
+SHA1-Digest: anXDdlV8daru1s8rleoh66Il8gQ=
+
+Name: assets/Graphics/characters/1046.png
+SHA1-Digest: seiNXgY+fIg/zRR8/0tyCc8fiec=
+
+Name: assets/Graphics/characters/3004.png
+SHA1-Digest: 4aA5GDV8/1Kw3O60ZZsbSqUqyUs=
+
+Name: assets/Graphics/characters/1039.png
+SHA1-Digest: hsrC5GSDDH2nTQ4CJhCOiiaFtRI=
+
+Name: assets/Graphics/characters/2021.png
+SHA1-Digest: 2PWI7on6PtubWbE2Fsc7oIob33Q=
+
+Name: assets/Graphics/characters/4006.motion.png
+SHA1-Digest: 2SdF2X8f6B2Ocwn5PfG4529FxPc=
+
+Name: assets/Graphics/characters/3012.png
+SHA1-Digest: MX5yMLbl1SyBfLpkV4wLkFUW2wY=
+
+Name: assets/Graphics/characters/2013.png
+SHA1-Digest: UfGI1qluwehWeNypWJgA4tr8Xqc=
+
+Name: error_prone/Annotations.gwt.xml
+SHA1-Digest: na1Ot7j+j43kcRIeW+Fn98GRYIo=
+
+Name: assets/Graphics/characters/1018.png
+SHA1-Digest: DsFIyfbqLxV1YxBYlTjxFo8KwOc=
+
+Name: assets/Graphics/characters/1035.png
+SHA1-Digest: anvCF4fP0M6IxP+TF1OfGtfbOUw=
+
+Name: assets/Graphics/characters/1001.1.motion.png
+SHA1-Digest: aM2fEl/j9BZHj1+kZv80/TToRJU=
+
+Name: assets/Graphics/characters/3023.png
+SHA1-Digest: 8ga0KgXMV/jC6s6Qe4h8dPTSY9I=
+
+Name: assets/Graphics/characters/2002.png
+SHA1-Digest: s1EEl95kWF505nbJ7AAkHFCFWII=
+
+Name: assets/Graphics/characters/4001.png
+SHA1-Digest: JLVgd5WkMFvOdZ04M+OzR6WOh4U=
+
+Name: assets/Graphics/characters/3019.png
+SHA1-Digest: clMOaIPW0gdUcEkvbiIy2flawzM=
+
+Name: assets/Sound/@pushers.event.mp3
+SHA1-Digest: diZ3sIiiR6+q6IiVxV4/1kKT0Qk=
+
+Name: assets/Graphics/characters/1001.0.motion.png
+SHA1-Digest: LP+m0PX+61w086uY/8PIHNzm650=
+
+Name: assets/Graphics/@textures.1.plist
+SHA1-Digest: 3af/8e/nBadfjZuJb0NxYpLSDXk=
+
+Name: assets/Graphics/characters/3016.png
+SHA1-Digest: gbXAu4PhE8Og0QjKECpzx0RSo6M=
+
+Name: assets/Json/@words.json
+SHA1-Digest: xlLh/XzsB4kMRN77eL9ksT16mls=
+
+Name: assets/Graphics/characters/1016.png
+SHA1-Digest: ME+/w4wQKp75+53JZxxdX+rHmSE=
+
+Name: assets/Graphics/characters/1040.motion.png
+SHA1-Digest: zt5zzib9mB+TWvlK4+yzrN+zaeI=
+
+Name: assets/Graphics/@scene.animation.json
+SHA1-Digest: Hdvc7u+0P2CU7mU0PXZY+SUqUCc=
+
+Name: res/drawable/theme.xml
+SHA1-Digest: 0cpTgPTOCRjCLlsYlRGvIMGcoiY=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: uGhZoH2WWdaVYz8jjmiqMCI3mEI=
+
+Name: assets/Graphics/characters/1024.png
+SHA1-Digest: +C3OjcQAbb6rD3F0kTZHzKPvpEQ=
+
+Name: assets/Graphics/characters/2024.png
+SHA1-Digest: K8Euh7X4IeLx5rkIMZPVYctXauA=
+
+Name: assets/Graphics/characters/4004.motion.png
+SHA1-Digest: 1eIypUpVxbvjTePap53wdblLGBA=
+
+Name: assets/Graphics/characters/5002.motion.png
+SHA1-Digest: Lmxl5f4kNvViV12sEFEMxjLJmjQ=
+
+Name: assets/Sound/@coin.mp3
+SHA1-Digest: Nlw8egKi2dIxUUnQWJkzAhsH2Mc=
+
+Name: assets/Graphics/characters/3019.motion.png
+SHA1-Digest: SwWCRPVTBk5HdDq8H+PfNswD5lc=
+
+Name: res/drawable-xxhdpi-v4/background.png
+SHA1-Digest: suVIWYpKh4lsdr8B7xYz+WPLRDc=
+
+Name: assets/Graphics/characters/1033.motion.png
+SHA1-Digest: ospAQ8AzE5lbkWRJT7qtiKFyWAA=
+
+Name: assets/Graphics/characters/3026.png
+SHA1-Digest: 4PvjhVWolLZ8NAIrUwOYXcuIObk=
+
+Name: assets/Graphics/characters/1020.motion.png
+SHA1-Digest: rRofNfICdgaa/fWJil28+1eadK0=
+
+Name: assets/Music/@music.continue.mp3
+SHA1-Digest: ODx+B+Qf7ghsFB3u9jYqojSbPj8=
+
+Name: assets/Graphics/characters/1034.png
+SHA1-Digest: ddcopR30Ba3H5cOu7Bi6Njx+dls=
+
+Name: assets/Graphics/characters/2008.png
+SHA1-Digest: teeFMf0JGyKkZB0Mi7PDVN/X+7Q=
+
+Name: assets/Graphics/tutorial.png
+SHA1-Digest: unDFOOgc23z78o6Wk1h05RSbBtM=
+
+Name: assets/Graphics/characters/1019.motion.png
+SHA1-Digest: EKE352673/9zH81zLlr7DY6H6Lg=
+
+Name: assets/Graphics/characters/1039.motion.png
+SHA1-Digest: 0l7pE7/VaM1onsVIzxFFoEj5eJY=
+
+Name: assets/Graphics/characters/2008.motion.png
+SHA1-Digest: 63KwT0tuxtvzdA73pVeFSv5b9O8=
+
+Name: assets/Graphics/characters/2011.motion.png
+SHA1-Digest: jFA+/gJvsdSSJbjsgaKS3dwy6ZQ=
+
+Name: assets/Graphics/characters/1001.0.png
+SHA1-Digest: 1D5qNdgO65QADroxv2fUStu542U=
+
+Name: assets/Graphics/characters/2018.png
+SHA1-Digest: 6k8zfYLCo6mtnpLFxfG6wafZ9Sk=
+
+Name: assets/Graphics/characters/3006.motion.png
+SHA1-Digest: sbnOQaTfr+os2hoXE0y6m2O18mo=
+
+Name: assets/Graphics/characters/3001.png
+SHA1-Digest: G32xe2CUgfiOvQ+94gMvvDH+y4I=
+
+Name: assets/Graphics/characters/1044.png
+SHA1-Digest: eXpH55bHLyd/tqJatnAhHODbXY8=
+
+Name: assets/Graphics/characters/1013.motion.png
+SHA1-Digest: yQ1YYOG5QzrWYx94SelEgKmwnBo=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: PsXSI4C5StHX+AWy4MTGCrzW61g=
+
+Name: assets/Graphics/characters/2017.motion.png
+SHA1-Digest: AhwfF9MJyyvQuwEA5g57RPvVOqk=
+
+Name: assets/Sound/@present.1.mp3
+SHA1-Digest: 05SFZ6anZhNuuKpUNvs1xSuD1jE=
+
+Name: lib/armeabi/libcore.so
+SHA1-Digest: rKUeR6EigjoNeSf+MqyRazVGn8U=
+
+Name: assets/Graphics/@textures.2.png
+SHA1-Digest: GvTePz/rshT+OABw/jqn4zhlf/E=
+
+Name: assets/Models/@character.5002.obj
+SHA1-Digest: Jfdh7iUQDYhyBpJfLtTHxZ3hYK8=
+
+Name: assets/Graphics/characters/1028.png
+SHA1-Digest: 0Z+tdYdjmdQq1Ukubr1PG8f7lmY=
+
+Name: assets/Music/@music.1.mp3
+SHA1-Digest: 79UhLzPs5CvDZOVEHSo9zpioyrs=
+
+Name: res/drawable-hdpi-v4/background.png
+SHA1-Digest: AuJDgP/l7YGh+dxFYjBjBdR58m0=
+
+Name: res/anim/fade_in.xml
+SHA1-Digest: 9BJ1d0Wy0dUQg5geNLaBLTIwXc0=
+
+Name: res/layout-v17/promotion.xml
+SHA1-Digest: 0AIR/F26sSdCDtDjEIUhlZF8KZ8=
+
+Name: assets/Graphics/characters/3026.motion.png
+SHA1-Digest: XeUMWldaHwHMW/9u58HX8v42Poc=
+
+Name: assets/Graphics/characters/4006.png
+SHA1-Digest: Unqi/MmS0oZFv2yfdJlmEvbOtfo=
+
+Name: assets/Graphics/@store.random.texture.png
+SHA1-Digest: 36J1/OvuZI4pgjfoBDXYWqDuRCo=
+
+Name: assets/Graphics/characters/3011.png
+SHA1-Digest: sGcYZRJC/I+tt9orOgnt69qrGkU=
+
+Name: assets/Graphics/characters/1004.motion.png
+SHA1-Digest: NpYKqTTI5GNUWpOmhRY3M+d/UAQ=
+
+Name: assets/Graphics/characters/1024.motion.png
+SHA1-Digest: SAMuf6IBoJDp+OnRLxOwGotr7is=
+
+Name: assets/Graphics/characters/1038.png
+SHA1-Digest: 3+9DhPJ5KDpU+skRvAG+Kxg5vYM=
+
+Name: assets/Music/@music.2.mp3
+SHA1-Digest: Sd6q/r2j6uuM9itDBGmBVOMhKvc=
+
+Name: assets/Graphics/characters/2003.png
+SHA1-Digest: n3yCCi9XvAkJuKryz+aiBDusFt4=
+
+Name: assets/Graphics/characters/1037.motion.png
+SHA1-Digest: p6nKFdIuAMvTUIQjgE51ZMHPcrY=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: N053YPKLJ1DUoXwIEFODTqt838M=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: yAmNOI5HG1OnCnJylkO2QbHXf14=
+
+Name: assets/Graphics/characters/1012.png
+SHA1-Digest: 6te3Xk4Q0oW1ZX6If+2bqmMYy38=
+
+Name: assets/Graphics/characters/1017.motion.png
+SHA1-Digest: aIctd45z5W/CAXE0NKkaZ3uUuuE=
+
+Name: assets/Graphics/characters/3015.motion.png
+SHA1-Digest: tCiRNwCeV8QgGnD16porcxMJlaM=
+
+Name: assets/Graphics/spike-texture.png
+SHA1-Digest: hCzv+nRcITQm28l9dtJLFitGreo=
+
+Name: assets/Graphics/characters/1044.motion.png
+SHA1-Digest: RnPJune30yxXn3DxG1E66P4cfM8=
+
+Name: assets/Graphics/characters/2020.png
+SHA1-Digest: Ft7l5jEE8dqnQrZ72Vm2FwRWGQk=
+
+Name: assets/Graphics/characters/3020.motion.png
+SHA1-Digest: C4J8nWnLxzi+4uGhonK4znkIpFE=
+
+Name: assets/Graphics/characters/2002.motion.png
+SHA1-Digest: 7++bPSqfQVBaH1E9a+E0K0cz5OQ=
+
+Name: assets/Sound/@popup.element.mp3
+SHA1-Digest: diZ3sIiiR6+q6IiVxV4/1kKT0Qk=
+
+Name: res/drawable-xhdpi-v4/background.png
+SHA1-Digest: ySAPpHXO6r7EOp4uoGutn0Jn8Tc=
+
+Name: assets/Graphics/characters/5004.png
+SHA1-Digest: fFkGwfpHGNZIax2kHLiUiTw6sgo=
+
+Name: assets/Graphics/characters/2022.motion.png
+SHA1-Digest: MUExQSqV0xuQ7wIPY3cwalW42/M=
+
+Name: assets/Models/@random.obj
+SHA1-Digest: b2rs8w25ApUpAvSEPZzv6nnn7eU=
+
+Name: assets/Graphics/@present.png
+SHA1-Digest: mPilv1q08uU9ngeyN508hQmTCXo=
+
+Name: assets/Graphics/characters/3022.png
+SHA1-Digest: /m4+ehr1rqU1oB3fg/ytfWfvqxE=
+
+Name: assets/Graphics/characters/2014.png
+SHA1-Digest: iD1myO5/AiybKoXmqke9ciKHvEE=
+
+Name: assets/Graphics/characters/3013.motion.png
+SHA1-Digest: zVR9vLybR0J0VpBU/cajNMrxXQQ=
+
+Name: assets/Models/@heart.obj
+SHA1-Digest: HN8BOv+72hJxyMuxZL8TXGur8hc=
+
+Name: assets/Graphics/characters/4002.motion.png
+SHA1-Digest: hklpmtx0I41fnqPSKJe3VLCtUs4=
+
+Name: assets/Sound/@character.trampoline.mp3
+SHA1-Digest: KXLbLLyWpsh4+xwmGhHbhaPfsJw=
+
+Name: assets/Graphics/characters/1046.motion.png
+SHA1-Digest: AIXyTm9tBM5V7HieTa80jxTjSI4=
+
+Name: assets/Graphics/characters/1015.motion.png
+SHA1-Digest: zd/8pfBtHyFTBKKHKYv1K6B29ss=
+
+Name: assets/Graphics/characters/2015.motion.png
+SHA1-Digest: /T8TfBHeIbkyJwROZmoxeMH/6u0=
+
+Name: assets/Graphics/characters/3005.png
+SHA1-Digest: vNajEmzk9HQ2p+GOzEeRWBdHJvc=
+
+Name: assets/Graphics/characters/1040.png
+SHA1-Digest: gs0Jj8xEMVg1QkVKYGLpmuIu3e0=
+
+Name: assets/Graphics/characters/3002.motion.png
+SHA1-Digest: pvuRVR4ojqk/ghuCUBdq3ZA6AbQ=
+
+Name: assets/Graphics/characters/3022.motion.png
+SHA1-Digest: KRCPCSWA78BOgESACgRE9WsQe7Y=
+
+Name: assets/Services/services.json
+SHA1-Digest: b+C+9MxxkQndHnFl4GEdKoxQl5k=
+
+Name: assets/Graphics/tutorial.json
+SHA1-Digest: e7j7y8fiyyirvYlkcFYx91+ARBM=
+
+Name: assets/Graphics/characters/1026.motion.png
+SHA1-Digest: jkqjNoJSO2x8BTp4jYHXjdl5MLA=
+
+Name: assets/Graphics/characters/4002.png
+SHA1-Digest: NKb5Z0lZBTqJGdCArgEqncVs22c=
+
+Name: assets/Graphics/characters/1035.motion.png
+SHA1-Digest: 1wsdJ1qBbW78Asf9891eVvL5nWA=
+
+Name: assets/Graphics/characters/2004.motion.png
+SHA1-Digest: evhnND35EUAj+oM3OtQUOvoyFbw=
+
+Name: assets/Graphics/characters/1023.png
+SHA1-Digest: x8T5pSlgLut+C1OK5Xjj53vTiHE=
+
+Name: assets/Graphics/characters/1006.motion.png
+SHA1-Digest: dekYPNdjeW2ihLINi4OtQJfKb8I=
+
+Name: assets/Graphics/characters/2024.motion.png
+SHA1-Digest: VlmfbQ14s5eskjWXI5TrOv1vw0o=
+
+Name: assets/Graphics/characters/1006.png
+SHA1-Digest: JuLwa1riKsyt+EuNZeuUGclcDMg=
+
+Name: assets/Graphics/characters/1033.png
+SHA1-Digest: qfO3HuHvkjSu8CfSSL97ohJmsRo=
+
+Name: assets/Graphics/characters/2016.motion.png
+SHA1-Digest: 8bh7VgTedOvAvtcBM2MYcvmlaDc=
+
+Name: assets/Graphics/characters/2006.motion.png
+SHA1-Digest: 3fCUQci6KtmXeVBlGsuaCCQdcu0=
+
+Name: assets/Graphics/characters/3021.motion.png
+SHA1-Digest: 2QGwiG2VajqRgBCfBBTfHeTufRQ=
+
+Name: assets/Graphics/characters/1025.png
+SHA1-Digest: 33CW8npOcvKLU/IWdvpxUMMxOPg=
+
+Name: assets/Graphics/characters/1041.png
+SHA1-Digest: jNXTGktAUexX4SPZr402OIOxKwU=
+
+Name: assets/Models/@character.5001.obj
+SHA1-Digest: aGD4BNCvC97gKfa81QqykZK9Tkk=
+
+Name: assets/Graphics/characters/3011.motion.png
+SHA1-Digest: VKqkwR9lf9mBnb8clxiB7ztyKkI=
+
+Name: res/drawable-mdpi-v4/background.png
+SHA1-Digest: N6w8Exyt2vFejhrJnJLZ5NxF7Jg=
+
+Name: assets/Graphics/characters/1009.png
+SHA1-Digest: biWtyoudA8RYmIfncnGEa5OSaIE=
+
+Name: assets/Graphics/characters/2007.png
+SHA1-Digest: Q9vf+lKlrvsiDN+f1+7bq7WdVDA=
+
+Name: assets/Graphics/characters/4007.png
+SHA1-Digest: /iukQGCpk86GloXNi657R7QkjY0=
+
+Name: assets/Graphics/characters/1005.motion.png
+SHA1-Digest: kAteqkT0Pu3SAhKUs2jJiq/SMpU=
+
+Name: assets/Graphics/characters/3009.png
+SHA1-Digest: UA3EJZPEp/79uvEE1l6dkeuBnwA=
+
+Name: assets/Models/@coin.obj
+SHA1-Digest: 0ZdjYaTh+/rmZmiC/TmNL+m3Sew=
+
+Name: assets/Graphics/characters/3017.png
+SHA1-Digest: 3mh2Me+HlIXaP7lW0Xo7bekqhtU=
+
+Name: assets/Graphics/push-flare.png
+SHA1-Digest: Lz1LbOuJ48aIqRXMffVzo/wzuyI=
+
+Name: assets/Graphics/characters/3025.png
+SHA1-Digest: ptFl30lD6jxcLeIXoCqcp+oIv/I=
+
+Name: assets/Shaders/@capture.texture.vert
+SHA1-Digest: j7TzRuuQwIXJ2iRGSBVM/A8eLCA=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: qleKQAEaDWtvjqExBwBTQxblfek=
+
+Name: lib/armeabi/libadcolony.so
+SHA1-Digest: TO6qovqlSPC9IfUodg098ymIuPk=
+
+Name: assets/Graphics/characters/1017.png
+SHA1-Digest: KlTnsx7OLvWRMV83l+2hBdkBiDU=
+
+Name: assets/Graphics/characters/3001.motion.png
+SHA1-Digest: O0Mq2BPS+dUM05djC9rofNjP04E=
+
+Name: assets/Graphics/@plate.texture.png
+SHA1-Digest: +O/OryK9J/gI2iKXE6FwxTeqPio=
+
+Name: assets/Graphics/characters/3013.png
+SHA1-Digest: Vo6dUHtV+27vIswNXS2+p2+HH7k=
+
+Name: assets/Graphics/characters/5004.motion.png
+SHA1-Digest: 2st8TeB3P86qCTxjtTxlQeGx+yY=
+
+Name: assets/Graphics/characters/3027.motion.png
+SHA1-Digest: 3BhsYAi8Y0REGNfECuwliHVhfsc=
+
+Name: assets/Graphics/@present.atlas
+SHA1-Digest: +RZzGZDPjlivuhikcPn69rmjGeM=
+
+Name: assets/Graphics/characters/1045.png
+SHA1-Digest: 2Q0XBAcAnIrdMF90kKq8tFL6IBs=
+
+Name: assets/Graphics/characters/2010.motion.png
+SHA1-Digest: /bv6QdAI3J1EqONcSJX8zpLBcRM=
+
+Name: assets/Models/@spike.obj
+SHA1-Digest: LvXTJ7gdzT55edFEQyESaKLb5JI=
+
+Name: res/drawable-ldpi-v4/background.png
+SHA1-Digest: VGGhBtZFwDP2lwhSO1wPRPCzoLM=
+
+Name: assets/Graphics/characters/1002.png
+SHA1-Digest: hvYPzQckKGuQTHJUIXN4Eb9G0HA=
+
+Name: assets/Graphics/characters/3017.motion.png
+SHA1-Digest: t/X7zpx8XuZGAv6pMkcbt90v6vI=
+
+Name: assets/Graphics/characters/2023.png
+SHA1-Digest: wW0Svph87yxku+5TWXrvXPR0Dqc=
+
+Name: assets/Graphics/characters/3007.motion.png
+SHA1-Digest: 73T4RaYpdMXSWa5FN+pkulQYDcc=
+
+Name: assets/Graphics/characters/3002.png
+SHA1-Digest: 3PP4bubyVQQ6km5xbpL4VWnXOOc=
+
+Name: assets/Graphics/characters/5002.png
+SHA1-Digest: mm0p7w35xVgolSUt+Bg0vG5asI0=
+
+Name: assets/Graphics/characters/2019.png
+SHA1-Digest: qpwbQoEQzs6fk1bea9HgihQqDWM=
+
+Name: assets/Graphics/characters/5003.motion.png
+SHA1-Digest: H4k00es3zqciACormc38Tv6K3+w=
+
+Name: assets/Graphics/@textures.1.png
+SHA1-Digest: pZF82U/r7BhJgjofhG9TXMCB3MI=
+
+Name: assets/Graphics/characters/2020.motion.png
+SHA1-Digest: TM0NLFVWDUDuuIdJHKaf06DyVBI=
+
+Name: assets/Graphics/characters/3018.motion.png
+SHA1-Digest: IvCrnNHTQmyD0EyvQtxqsfYA6gg=
+
+Name: assets/Graphics/characters/2011.png
+SHA1-Digest: 1aivAyJ/dJLrFKaKOYSUGBpIDpU=
+
+Name: third_party/java_src/error_prone/project/annotations/Annotations
+ .gwt.xml
+SHA1-Digest: grG4d9CioDKuE/TSndXbzUkhTtA=
+
+Name: assets/Graphics/characters/3008.motion.png
+SHA1-Digest: kxv6yhmrF7+Da/OjnfihM4l2wbE=
+
+Name: assets/Graphics/characters/1029.png
+SHA1-Digest: 0ExmzCTwgXRyEAmbHNbs2Yn7/3c=
+
+Name: assets/Graphics/characters/4003.png
+SHA1-Digest: ytlhfoqaH5fVTPWGQobYNon2UNk=
+
+Name: assets/Graphics/push-flare.atlas
+SHA1-Digest: ESoemdVDUIbbuQnwbqGgyTMNVKE=
+
+Name: assets/Graphics/@giphy.png
+SHA1-Digest: N4Y+b1ranIDXPB+hnpgBrD2hPYU=
+
+Name: assets/Graphics/characters/2004.png
+SHA1-Digest: ZRa+Tbe3p8oj3cyTciDh5hSwxvA=
+
+Name: assets/Graphics/characters/1013.png
+SHA1-Digest: Bh4vz+UU7r42HNoePZXGYDjb/Nc=
+
+Name: assets/Models/@character.5004.obj
+SHA1-Digest: 4n+BX049g6A/wH2ugYJMQe+fxO4=
+
+Name: assets/Graphics/characters/1030.png
+SHA1-Digest: KWCHx/ozQB6fIsUY3S4amlpOVZI=
+
+Name: assets/Graphics/characters/3021.png
+SHA1-Digest: lJe7GPonn9Ec/uPKZiKqNHEmO3c=
+
+Name: lib/armeabi/libjs.so
+SHA1-Digest: RAAHxpNENGLuZY7E0XRMXoznbeI=
+
+Name: assets/Graphics/characters/3028.motion.png
+SHA1-Digest: Rpffk/o7XZWBt1Mxy+UD7QNWIZM=
+
+Name: assets/Sound/@touch.mp3
+SHA1-Digest: 52SQSVNN+336G0LV/Ytsx2hGwQY=
+
+Name: assets/Parameters/parameters.json
+SHA1-Digest: 8PuQiyF65I6dtml9I6eqRi5Jbe4=
+
+Name: assets/Graphics/characters/1022.png
+SHA1-Digest: 1FMyTr9AQo2jt9TXxsVOBNjUuzo=
+
+Name: assets/Music/@music.rent.mp3
+SHA1-Digest: NA+/24/5nuZxCYHQVHTv8vy4cCY=
+
+Name: assets/Graphics/characters/4008.motion.png
+SHA1-Digest: fatAC9ftEKiPA1dg/NFQHSgsKLs=
+
+Name: assets/Shaders/@fog.vert
+SHA1-Digest: k/Lj/HEe85NwkxeJwvSpxvYjsYE=
+
+Name: assets/Graphics/characters/1005.png
+SHA1-Digest: MgAfSkTqAaprQCFAnHcgZ1W2WfI=
+
+Name: assets/Graphics/characters/1048.png
+SHA1-Digest: eIk5tofM8nR9h/bBTpoFVaSu+Fc=
+
+Name: assets/Json/@translations.json
+SHA1-Digest: mrp06b+HmI+jILdo9aEE8QejAjY=
+
+Name: assets/Graphics/characters/2015.png
+SHA1-Digest: 6z37ynfYGiVr97FjXqBmrJsIEQY=
+
+Name: assets/Graphics/characters/3010.png
+SHA1-Digest: Ty9aVROFZ+/Yi4gdLJn90+fvZp8=
+
+Name: assets/Sound/@mark.mp3
+SHA1-Digest: 032eHRKXc66HuKq8IEAsw6Ypkwg=
+
+Name: assets/Graphics/characters/1037.png
+SHA1-Digest: 126Ww45DLpH79VXydkgFjzDGMjg=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: QHc8HvaHo5xwIEdIVQPaeZ7Id0Y=
+
+Name: assets/Sound/@popup.challenge.mp3
+SHA1-Digest: rrUA4tBRc+JadoJ0Nf8DEk0b5wA=
+
+Name: assets/Graphics/@arrow.texture.png
+SHA1-Digest: 9EKDj66nOy9RSV5Yfw4aK491ia8=
+
+Name: assets/Graphics/characters/3006.png
+SHA1-Digest: vMh+zqCypHryAKphkr3rcepFAx0=
+
+Name: assets/Graphics/push-flare.json
+SHA1-Digest: IbUnk7Rs95pnB0p7KhKtSbBK/Qk=
+
+Name: assets/Graphics/characters/1008.png
+SHA1-Digest: Bi2tTT4ahkNQyJu4xwb7IQ1Xu7Y=
+
+Name: assets/Graphics/characters/2016.png
+SHA1-Digest: kuJOA6xbVJcSCQUYsxgkUKtFeQo=
+
+Name: assets/Graphics/characters/3024.png
+SHA1-Digest: VzxHkJjeM3NZd+8RRkJhPyvr9B4=
+
+Name: assets/Graphics/characters/1030.motion.png
+SHA1-Digest: QLaHudMVG6ldQsy6bl6MU6/MjeQ=
+
+Name: assets/Sound/@counter.currency.pop.2.mp3
+SHA1-Digest: F75vHaqMvUz672NM74I/P9uj6g8=
+
+Name: assets/Graphics/characters/1042.png
+SHA1-Digest: 62+KI8y78xQdrav3kS1k2pcoUWY=
+
+Name: assets/Graphics/characters/1023.motion.png
+SHA1-Digest: bktLxouoKAg6FYe4yJAabgKEojY=
+
+Name: assets/Graphics/characters/3009.motion.png
+SHA1-Digest: 1P7mZCv5k7jmTdQinBASJonEkro=
+
+Name: third_party/java_src/error_prone/project/annotations/Google_inte
+ rnal.gwt.xml
+SHA1-Digest: 77IOjueQXKTJGt7zmwpPb1YWFlU=
+
+Name: assets/Graphics/@coin.texture.png
+SHA1-Digest: gKoHZAivAMsbPoa8J+uuZR8aWVc=
+
+Name: javax/inject/Inject.gwt.xml
+SHA1-Digest: yJzmWjPIi8vFYisJkCaH1WzgU4k=
+
+Name: assets/Graphics/characters/1026.png
+SHA1-Digest: JCEx+9iyKe0pSTteqh8b3/ZVnIk=
+
+Name: assets/Graphics/characters/4007.motion.png
+SHA1-Digest: wVu0yspchpGEyqRZUuy8Ru0yjGs=
+
+Name: assets/Graphics/characters/1043.motion.png
+SHA1-Digest: AX+55aDqKDwAnXBKwE1V1hZP5P0=
+
+Name: assets/Graphics/characters/3008.png
+SHA1-Digest: B7Aj4iU4lU16EFJ9Mfl4CeOSStI=
+
+Name: assets/Graphics/@scene.animation.atlas
+SHA1-Digest: SbjY8TtTeMsUEGi5CcESiby8HcI=
+
+Name: assets/Graphics/characters/1010.motion.png
+SHA1-Digest: ns1AUt4RaSFpHAZw0L2Ng6jUnCk=
+
+Name: assets/Graphics/characters/4008.png
+SHA1-Digest: xIrDpvfRk5eUcdyX7XwR9ZPGjoQ=
+
+Name: assets/Graphics/characters/1014.png
+SHA1-Digest: u+UDKr+VpZyC6os+OgngorLIdgs=
+
+Name: assets/Graphics/characters/2022.png
+SHA1-Digest: anXJh73DaPEYfoiAyR4j+BZM/Fo=
+
+Name: assets/Graphics/characters/3014.png
+SHA1-Digest: OwufG0h/KhjZXKA6Ztoas5AR1SQ=
+
+Name: assets/Graphics/@textures.2.plist
+SHA1-Digest: uICoFwEfV050v5wkk5d0H9IVaqA=
+
+Name: assets/Graphics/characters/1029.motion.png
+SHA1-Digest: 6WaVMCk8TFzkxWxqv7dmHkbrX6E=
+
+Name: assets/Graphics/characters/2001.motion.png
+SHA1-Digest: uGbxggosSnlyb3/d8g+CMg8gaaI=
+
+Name: assets/Graphics/characters/1003.motion.png
+SHA1-Digest: 3kmxVKFPTDCVhbrrW73cWy404MI=
+
+Name: assets/Sound/@application.onFinish.mp3
+SHA1-Digest: 2zro40FTxqEOXpPGLxTmiifJE00=
+
+Name: assets/Graphics/characters/1009.motion.png
+SHA1-Digest: Q4tr1GT6XVhVt4c4H/9FmgKBows=
+
+Name: assets/Graphics/characters/2021.motion.png
+SHA1-Digest: +oQ+nWmZmhL93figO3DFfP1pmLo=
+
+Name: assets/Graphics/characters/3028.png
+SHA1-Digest: fRxIFTUTVZyNuHWPgzNTj1rmNAs=
+
+Name: assets/Graphics/characters/5001.png
+SHA1-Digest: VYy7k7lNvHSHpHulzOoRi+X5w2I=
+
+Name: assets/Graphics/characters/2006.png
+SHA1-Digest: /QlmORUaPk8fzpJUOedbPXjaoAg=
+
+Name: assets/Graphics/characters/3016.motion.png
+SHA1-Digest: yAf0o66sDFCIMg76dyC/oCovyi0=
+
+Name: assets/Graphics/characters/1032.png
+SHA1-Digest: y8VmUDbmNua08o65fqiBWXB0JTg=
+
+Name: assets/Graphics/characters/2018.motion.png
+SHA1-Digest: d4KkxlbSKhlVGcw+zprp87yexrc=
+
+Name: assets/Graphics/characters/1014.motion.png
+SHA1-Digest: CbuMySBn46p6anFk0S4Lk6b9SBg=
+
+Name: assets/Sound/@application.onAction.mp3
+SHA1-Digest: Iiq5DDSrDnKZrn4gujGhc0p+p8M=
+
+Name: assets/Graphics/characters/3003.png
+SHA1-Digest: tU80KSexrEtYgkAlXlb65VSP0Ug=
+
+Name: assets/Graphics/characters/1034.motion.png
+SHA1-Digest: V9nclPBpSU164RgiLvyAYfL/4PI=
+
+Name: assets/Graphics/characters/1027.motion.png
+SHA1-Digest: unhzq/HZxwj70dLACRcCjzPdRGc=
+
+Name: assets/Graphics/characters/3005.motion.png
+SHA1-Digest: ErBCjGgsT9tR7GVLYwQabNlC4sI=
+
+Name: assets/Graphics/tutorial.atlas
+SHA1-Digest: ZTXgzNebIlpQLZeW3r4ReQS6HQA=
+
+Name: assets/Graphics/characters/3020.png
+SHA1-Digest: F3crSOqiCv0I0/nnn6psEEGcD2g=
+
+Name: assets/Sound/@mission.mp3
+SHA1-Digest: UyilgoPZhLfksg+jn0p+HIO19XA=
+
+Name: assets/Graphics/characters/1007.motion.png
+SHA1-Digest: WCQaIq9WC0b88KjLW/Ep2qMjqsc=
+
+Name: assets/Graphics/characters/3025.motion.png
+SHA1-Digest: 6gsjspBgZ3e0/0U204sBE8pxrOk=
+
+Name: assets/Sound/@capture.mp3
+SHA1-Digest: 1oQwtcb6M4OWsOnBe63AY8xRQn4=
+
+Name: assets/Sound/@popup.challenge.action.mp3
+SHA1-Digest: FIrawl+WaaZXLUg0zpIIs45DsZg=
+
+Name: assets/Graphics/characters/1021.png
+SHA1-Digest: FBZt0clNjcYcZE6Bju0bt8iof2U=
+
+Name: assets/Graphics/characters/5001.motion.png
+SHA1-Digest: TwNGTBavnUTeaJKYgriEzb3tmCM=
+
+Name: assets/Json/@environment.json
+SHA1-Digest: tGLHqtIeickHd64C/yYfzBvjV00=
+
+Name: res/drawable-xxxhdpi-v4/background.png
+SHA1-Digest: 457As5jBP5kq0JMDF64ftG39JCM=
+
+Name: assets/Graphics/characters/4004.png
+SHA1-Digest: 5VeRIqOovyVj3f/NHzFPJRwOANY=
+
+Name: assets/Graphics/characters/2007.motion.png
+SHA1-Digest: OPqbubWD9+V3axv2/xSw+IvX5lM=
+
+Name: assets/Graphics/characters/3010.motion.png
+SHA1-Digest: f3Qf0HpuPNu30CVCxBNKCi92g34=
+
+Name: assets/Graphics/characters/2012.png
+SHA1-Digest: 0tG3l/tftdHT+yJCI46eIfuvvGc=
+
+Name: assets/Graphics/characters/2012.motion.png
+SHA1-Digest: vUPcKWN3xt1i1DTTJB0n/yymaq0=
+
+Name: assets/Graphics/characters/1004.png
+SHA1-Digest: IUWa1ljJ+ImoZdCE6E6ULQZ46Bk=
+
+Name: build-data.properties
+SHA1-Digest: GhJtft50oTTEzMfc7JurKphHTw0=
+
+Name: assets/Graphics/characters/4003.motion.png
+SHA1-Digest: PPO7HNilu3TfMRgK3Z2zJZ2nzvM=
+
+Name: assets/Graphics/characters/1047.motion.png
+SHA1-Digest: lHgWHsk0Ssxett/lzcvMFctx1u8=
+
+Name: assets/Graphics/characters/1047.png
+SHA1-Digest: //pTy0bn2ikq9Ffn0LUmQ2jCL/g=
+
+Name: assets/Json/@character.json
+SHA1-Digest: XLRj7ExMsUApkpbE94HZn6ckbt4=
+
+Name: assets/Models/@arrow.obj
+SHA1-Digest: V9athaCeWLvmx6XsUfRRVUWER1M=
+
+Name: assets/Graphics/characters/3003.motion.png
+SHA1-Digest: KwOr2ZRQ6GZjmsU0ec0XlqX02Y0=
+
+Name: assets/Graphics/@heart.texture.png
+SHA1-Digest: QYeVxN2sn75PD5mxf+mOlmRg2is=
+
+Name: assets/Graphics/characters/2001.png
+SHA1-Digest: R/btUqeP/WhCNJ+css0brnrmU8s=
+
+Name: assets/Graphics/characters/1036.motion.png
+SHA1-Digest: kQDnDEQL4UOcOhnjMXq2ZvtY4LE=
+
+Name: assets/Graphics/characters/3018.png
+SHA1-Digest: G2qwv7I+mVctSM3XzuLjLA2DbqU=
+
+Name: assets/Graphics/characters/3023.motion.png
+SHA1-Digest: a8RjLguNfNxUiSfoTnezkJCk76Y=
+
+Name: assets/Sound/@action.mp3
+SHA1-Digest: HJ6DRxhkK4z6MGgwFJbrDtJMVhs=
+
+Name: assets/Graphics/characters/3012.motion.png
+SHA1-Digest: 1jHlMXnkXHZVNutuzZtOkgWcx8Q=
+
+Name: assets/Graphics/@scene.animation.png
+SHA1-Digest: 98XnrWF5G691adxZBSTMC/IlGdA=
+
+Name: assets/Graphics/characters/1010.png
+SHA1-Digest: fFkGwfpHGNZIax2kHLiUiTw6sgo=
+
+Name: assets/Graphics/characters/1025.motion.png
+SHA1-Digest: vdER1AdwxplGN1TEamSWdvh/8iI=
+
+Name: assets/Graphics/characters/2005.motion.png
+SHA1-Digest: 3WeMSnjdp2uptk2ckV2L5lcd1zU=
+
+Name: assets/Graphics/characters/1045.motion.png
+SHA1-Digest: 9wtZjqxVfpJKom+/JbJslotORHQ=
+
+Name: assets/Graphics/characters/1036.png
+SHA1-Digest: LclJKRF8DoHljD6HFdx/eJbi7zU=
+
+Name: classes.dex
+SHA1-Digest: AWfCZz8GxmGntf6wbtn8WHaJthg=
+
+Name: assets/Graphics/characters/1016.motion.png
+SHA1-Digest: pKTD2kbuVfmU8agnbjFgSwl+35s=
+
+Name: assets/Graphics/characters/1019.png
+SHA1-Digest: 6ofaRVLWIEGn5wGLFPynNlI07vQ=
+
+Name: assets/Graphics/characters/2014.motion.png
+SHA1-Digest: qsClG5hoopjHtq8Ghw9FwXbUmvw=
+
+Name: assets/Sound/@character.destroy.mp3
+SHA1-Digest: z8BedhW+n5MWHfU1oqE9Ma4NFI0=
+
+Name: assets/Graphics/characters/4001.motion.png
+SHA1-Digest: PXrDp3UsYXebtoPqTPHHBpwcOxA=
+

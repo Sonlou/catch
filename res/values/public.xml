@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="close2x" id="0x7f020001" />
+    <public type="drawable" name="theme" id="0x7f020003" />
+    <public type="drawable" name="background" id="0x7f020000" />
+    <public type="drawable" name="icon" id="0x7f020002" />
+    <public type="layout" name="promotion" id="0x7f030000" />
+    <public type="anim" name="fade_in" id="0x7f040000" />
+    <public type="anim" name="fade_out" id="0x7f040001" />
+    <public type="dimen" name="activity_horizontal_margin" id="0x7f050000" />
+    <public type="dimen" name="activity_vertical_margin" id="0x7f050001" />
+    <public type="dimen" name="button_size" id="0x7f050002" />
+    <public type="dimen" name="close_button_padding" id="0x7f050003" />
+    <public type="dimen" name="play_button_margin_bottom" id="0x7f050004" />
+    <public type="dimen" name="play_button_margin_left" id="0x7f050005" />
+    <public type="color" name="background" id="0x7f060000" />
+    <public type="string" name="name" id="0x7f070000" />
+    <public type="string" name="google" id="0x7f070001" />
+    <public type="style" name="theme" id="0x7f080000" />
+    <public type="id" name="content_view" id="0x7f090000" />
+    <public type="id" name="video_view" id="0x7f090001" />
+    <public type="id" name="surfaceView" id="0x7f090002" />
+    <public type="id" name="ivLogo" id="0x7f090003" />
+    <public type="id" name="ivHeader" id="0x7f090004" />
+    <public type="id" name="ivPlay" id="0x7f090005" />
+    <public type="id" name="banner_image" id="0x7f090006" />
+    <public type="id" name="closeBtn" id="0x7f090007" />
+</resources>

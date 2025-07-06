@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="content_view" />
+    <item type="id" name="video_view" />
+    <item type="id" name="surfaceView" />
+    <item type="id" name="ivLogo" />
+    <item type="id" name="ivHeader" />
+    <item type="id" name="ivPlay" />
+    <item type="id" name="banner_image" />
+    <item type="id" name="closeBtn" />
+</resources>
